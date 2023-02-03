@@ -1,0 +1,262 @@
+thead,/*ทำสีให้ตาราง*/
+tfoot {
+  
+  background: rgba( 255, 255, 255, 0.7 );
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: blur( 0px );
+  -webkit-backdrop-filter: blur( 0px );
+  border-radius: 10px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+/*table, td {เพื่มช่อง
+border-style: solid;
+} */
+
+  body,.modal-content,.dropdown-menu{
+    
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    
+    /* font-family: 'Mali', cursive; */
+  
+  }
+
+.navbar-brand{
+ width: 55px;
+ height: 50px;
+text-align: center;
+  border-radius: 20px;
+background: #94bbe9;
+box-shadow:  13px 13px 26px #59708c,
+             -13px -13px 26px #cfffff;
+}
+.nav-item{
+ margin-left: 10px;
+ text-align: center;
+ border-radius: 48px;
+background: #94bbe9;
+box-shadow:  5px 5px 10px #59708c,
+             -5px -5px 10px #cfffff;
+}
+.nav-item:hover{
+  margin-left: 10px;
+ text-align: center;
+  border-radius: 48px;
+background: #94bbe9;
+box-shadow: inset 5px 5px 10px #59708c,
+            inset -5px -5px 10px #cfffff;
+}
+.hr{ border-style: dotted none none;
+    border-color: white;
+    width: 50% ;
+    border-width: 15px;
+    margin: auto;
+  }
+.Contact{
+  margin-top: 0px;
+}
+
+
+  .imgPF:hover { 
+    background: #94bbe9;
+    box-shadow: inset 5px 5px 10px #59708c,
+                inset -5px -5px 10px #cfffff;
+  }
+  .imgPF{
+    border-radius: 100%;
+    margin: 40px;
+    background: #94bbe9;
+box-shadow:  5px 5px 10px #59708c,
+             -5px -5px 10px #cfffff;
+  }
+  .imgPF1:hover { 
+    background: white;
+    box-shadow: inset 5px 5px 10px #59708c,
+                inset -5px -5px 10px #cfffff;
+  }
+  .imgPF1{
+    border-radius: 20%;
+    margin: 40px;
+    background:white;
+box-shadow:  5px 5px 10px #59708c,
+             -5px -5px 10px #cfffff;
+  }
+  
+  .logo{
+    width: 30%;
+    margin: 30px;
+    border-radius: 50px;
+background: #94bbe9;
+box-shadow:  11px 11px 22px #59708c,
+             -11px -11px 22px #cfffff;
+  }
+  .logo:hover{
+    width: 30%;
+    margin: 30px;
+    border-radius: 50px;
+    background: #94bbe9;
+    box-shadow: inset 5px 5px 10px #59708c,
+                inset -5px -5px 10px #cfffff;
+  }
+  .logo-fb{
+    width: 30%;
+    margin: 30px;
+    border-radius: 50%;
+    background: #94bbe9;
+    box-shadow:  11px 11px 22px #59708c,
+                 -11px -11px 22px #cfffff;
+  }
+  .logo-fb:hover{
+    width: 30%;
+    margin: 30px;
+    border-radius: 50%;
+    background: #94bbe9;
+    box-shadow: inset 5px 5px 10px #59708c,
+                inset -5px -5px 10px #cfffff;
+  }
+  
+
+.bgG{
+  background: rgba( 255, 255, 255, 0.35 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 5px );
+-webkit-backdrop-filter: blur( 5px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+text-align: center;
+margin-bottom: 5%;
+}
+.bgG1{
+  background: rgba( 255, 255, 255, 0.35 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 5px );
+-webkit-backdrop-filter: blur( 5px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+text-align: center;
+margin-top: 10%;
+margin-bottom: 5%;
+}
+.bgG2{
+  background: rgba( 255, 255, 255, 0.35 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 5px );
+-webkit-backdrop-filter: blur( 5px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+text-align: center;
+width: 40%;
+margin: auto;
+}
+.bgG3{
+  background: rgba( 255, 255, 255, 0.35 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 5px );
+-webkit-backdrop-filter: blur( 5px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+margin: 0px;
+margin-bottom: 2%;
+}
+table{
+  margin: auto;
+}
+th {
+  padding: 15px;
+}
+.divhr1{
+  height: 30px;
+}
+.divpf{
+  position: relative;
+  text-align: center;
+
+}
+.button{
+  font-size: 40px;
+  margin: 5%;
+  width: 200px;
+  height: 100px;
+  border-radius: 48px;
+background: #94bbe9;
+box-shadow:  13px 13px 26px #59708c,
+             -13px -13px 26px #cfffff;
+}
+.button:hover{
+  font-size: 40px;
+  margin: 5%;
+  width: 200px;
+  height: 100px;
+  border-radius: 48px;
+background: #94bbe9;
+box-shadow: inset 5px 5px 10px #59708c,
+            inset -5px -5px 10px #cfffff;
+}
+.button1{
+  font-size: 40px;
+  margin: auto ;
+  width: 350px;
+  height: 50px;
+  border-radius: 48px;
+background: #94bbe9;
+box-shadow:  13px 13px 26px #59708c,
+             -13px -13px 26px #cfffff;           
+}
+.button2{
+  font-size: 40px;
+  margin: auto ;
+  width: 400px;
+  height: 100px;
+  border-radius: 48px;
+background: #94bbe9;
+box-shadow:  13px 13px 26px #59708c,
+             -13px -13px 26px #cfffff;           
+}
+.button2:hover{
+  font-size: 40px;
+  margin: auto ;
+  width: 400px;
+  height: 100px;
+  border-radius: 48px;
+  background: #94bbe9;
+  box-shadow: inset 5px 5px 10px #59708c,
+              inset -5px -5px 10px #cfffff;           
+}
+.button3{
+  margin: auto ;
+  border-radius: 48px;
+background: #94bbe9;
+box-shadow:  13px 13px 26px #59708c,
+             -13px -13px 26px #cfffff;           
+}
+.button3:hover{
+  margin: auto ;
+  border-radius: 48px;
+  background: #94bbe9;
+  box-shadow: inset 5px 5px 10px #59708c,
+              inset -5px -5px 10px #cfffff;         
+}
+.button4{
+  font-size: 20px;
+  margin-bottom: 2%;
+  width: 100px;
+  height: 50px;
+  border-radius: 48px;
+background: #94bbe9;
+box-shadow:  13px 13px 26px #59708c,
+             -13px -13px 26px #cfffff;
+             
+}
+.button4:hover{
+  font-size: 20px;
+  margin-bottom: 2%;
+  width: 100px;
+  height: 50px;
+  border-radius: 48px;
+  background: #94bbe9;
+  box-shadow: inset 5px 5px 10px #59708c,
+              inset -5px -5px 10px #cfffff;          
+}
+.div-C0{
+  margin-bottom: 50px;
+}
